@@ -22,4 +22,4 @@ wm | wmv | wtv | xesc
 cdg | idx | srt | sub | utf | ass | ssa | aqt | jss
 | psb | rt | smi | txt | smil
 
-![我是图片](XYPlayer/高仿今日头条01.gif）
+![我是图片](https://github.com/XYslz/XYPlayer/高仿今日头条01.gif）
