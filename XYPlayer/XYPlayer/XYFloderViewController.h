@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "VideoModel.h"
 
 @interface XYFloderViewController : UIViewController
 

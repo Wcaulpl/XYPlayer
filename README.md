@@ -1,4 +1,7 @@
-# XYPlayer (暂未完成)
+# XYPlayer
+
+下载后
+pod install 更新第三方
 
 ### 作为一个万能视频播放器XYPlayer 是基于MobileVLCKit的播放器
 #### 支持在iOS平台播放众多的音视频文件和流媒体格式：
@@ -24,4 +27,4 @@ cdg | idx | srt | sub | utf | ass | ssa | aqt | jss
 
 ## 效果图
 
-![高仿今日头条01](https://github.com/XYslz/XYPlayer/blob/master/高仿今日头条01.gif)
+![XQYWC](https://github.com/XYslz/XYPlayer/blob/master/XQYWC.gif)
