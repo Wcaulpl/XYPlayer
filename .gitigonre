@@ -23,6 +23,6 @@ DerivedData
 *.xcuserstate
 
 ### Pod ###
-/XYPlayer/Pods
-/XYPlayer/Podfile.lock
+XYPlayer/Pods
+XYPlayer/Podfile.lock
 *.xcworkspace/
